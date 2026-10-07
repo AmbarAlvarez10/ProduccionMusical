@@ -1,6 +1,6 @@
 # ProduccionMusical
 
-¡Hola! Soy Ambar Alvarez y me apasiona la producción musical.
+Hola a todoss! Soy Ambar Alvarez y me apasiona la producción musical.
 
 En los procesos de producción musical, radio o diseño sonoro, sumar la duración exacta de múltiples pistas suele ser una tarea repetitiva y propensa a errores matemáticos (debido a que el tiempo se rige por bases de 60).
 
